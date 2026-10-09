@@ -1,0 +1,7 @@
+repo: https://github.com/morganstanley/hobbes
+primary_contact: brianegge@gmail.com
+auto_ccs:
+  - brian.egge@morganstanley.com
+homepage: https://hobbes.readthedocs.io
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
